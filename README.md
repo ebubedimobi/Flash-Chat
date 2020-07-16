@@ -6,10 +6,7 @@ Flash Chat is an internet based messaging app similar to WhatsApp, It uses Fireb
 
 # Screenshots
 
-<img src="images/phone11_1.png" height = "500">
-
-<img src="images/phone11_1.png" height = "600">
-
-<img src="images/phone11_1.png" height = "600">
-
+![](Documentation/iphone11_1.png)
+![](Documentation/iphone11_2.png)
+![](Documentation/iphone11_3.png)
 
